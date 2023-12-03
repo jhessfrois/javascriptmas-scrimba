@@ -5,7 +5,7 @@
 > 3º Desafio do JavaScriptmas oferecido pela Scrimba. Desenvolver uma calculadora de doces de acordo com o numero de crianças. 
 
 ## Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/vittamed/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/javascriptmas-scrimba/day-03/)
 
 ## 🛠 Tecnologias
 > Tecnologias usadas para desenvolver a calculadora
