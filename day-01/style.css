@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --dark-red: #bb1e2e;
+  --text-color: #151818;
+  --white-color: #F0F4F7;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Mountains of Christmas", serif;
+  margin: 0;
+  color: #151818;
+}
+
+.title {
+  text-align: center;
+  font-weight: normal;
+  font-size: 3rem;
+  margin-top: 10.5rem;
+}
+
+.img {
+  width: 4rem;
+}
+
+.countdown-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 2px solid;
+  border-radius: 1rem;
+  color: var(--white-color);
+  background-color: var(--dark-red);
+}
+
+.text {
+  font-weight: bold;
+  font-size: 6rem;
+  line-height: 1;
+  margin: 1rem 2rem;
+}
+
+.countdown-el {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.countdown-el span {
+  font-size: 1.5rem;
+  margin: 2rem;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dividir Doces</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap"
+    rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="dividir-container"class="container">
+            <h1 class="title">Dividir Doces</h1>
+            <div class="dividir-container-inner">
+                <div id="user-input-container">
+                    <form id="dividir-form" class="dividir-form">
+                        <label for="childrenAmount">Crianças:</label>
+                        <input id="childrenAmount" type="number" min="0" name="childrenAmount" placeholder="Quantidade de crianças" required>
+                        <label for="candyAmount">Doces:</label>
+                        <input id="candyAmount" type="number" min="0" name="candyAmount" placeholder="Quantidade de doces" required>
+                        <button id="submit-btn" type="submit" class="btn-primary">Calcular</button>
+                        <div id="resultado-container" class="resultado-container"></div>
+                    </form>
+                </div>
+                <img class="cookies-img" src="images/cookies.jpg" alt="Prato com alguns biscoitos natalinos">
+            </div>
+        </div>
+        <script src="script.js"></script>
+  </body>
+</html>
