@@ -24,6 +24,16 @@ h1 {
     font-family: 'Poppins', sans-serif;
 }
 
+.joke-setup {
+    color: #04b204;
+}
+
+.joke-delivery {
+    display: block;
+    margin-top: 0.5em;
+    color: #e40622;
+}
+
 main {
     display: flex;
     margin: 0 auto;

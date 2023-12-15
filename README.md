@@ -51,6 +51,9 @@
 - Desafio:
   - O cartão tem dois lados e vira de frente para trás ao passar o mouse.
   - Combine os estilos o mais próximo possível.
+- Metas estendidas:
+  - Adicionei um background-image e escolhi uma imagem com tema natalino
+  - Efeito 3D
 
 ## 🛠 Tecnologias
 > Tecnologias usadas para desenvolver os desafios
