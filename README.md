@@ -10,21 +10,24 @@
 
 > JavaScriptmas é um desafio diário de codificação de 24 dias em JavaScript (com um pouco de HTML e CSS), organizado pela escola norueguesa de codificação online, Scrimba , de 1º a 24 de dezembro.
 
-## Dia 1 - Contagem regressiva para o Natal
+## Dia 01 - Contagem regressiva para o Natal
 
-- Obtenha a data de hoje (você só precisa do dia)
-- Calcular os dias restantes
-- Exibir dias restantes
+- Desafio:
+  - Obtenha a data de hoje (você só precisa do dia)
+  - Calcular os dias restantes
+  - Exibir dias restantes
 - Metas estendidas:
   - exibir horas, minutos, segundos
   - adicione uma contagem regressiva para outro festival, seu aniversário ou Natal de 2024.
-## Dia 2 - Estilize um botão colorido
 
-- Bordas gradientes
-  - adicionar uma borda de 115 graus com as cores fornecidas ou cores próprias
-  - usei a paleta de cores do natal
+## Dia 02 - Estilize um botão colorido
 
-## Dia 3 - Dividir os doces
+- Desafio:
+  - Bordas gradientes
+  - Adicionar uma borda de 115 graus com as cores fornecidas ou cores próprias
+  - Usei a paleta de cores do natal
+
+## Dia 03 - Dividir os doces
 
 - Desafio:
   - Algumas crianças ganharam alguns doces.
@@ -36,7 +39,19 @@
   - Cada uma das 3 crianças pode comer 3 doces.
   - Portanto, o número total de doces que podem ser consumidos é 3*3 = 9, então a função calcTotalCandies deve desconectar 9.
 
-  
+## Dia 04 - Gerador de piadas de Natal com IA
+
+- Desafio:
+  - Use IA para gerar uma piada de Natal de uma linha.
+- Metas estendidas:
+  - Use um provedor de IA diferente. 
+
+## Dia 05 - Virar cartão de Natal
+
+- Desafio:
+  - O cartão tem dois lados e vira de frente para trás ao passar o mouse.
+  - Combine os estilos o mais próximo possível.
+
 ## 🛠 Tecnologias
 > Tecnologias usadas para desenvolver os desafios
 
